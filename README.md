@@ -6,7 +6,7 @@
 </p>
 
 <hr/>
-<h4 align="center">As a degree holder of BS in Computer Science from FAST National University of Computer and Emerging Sciences, my journey has been marked by a deep passion for technology and a solid academic foundation. Now, as I step into the world as a proficient software engineer, I am eager to apply my skills and knowledge to push the boundaries of software engineering. Driven by innovation and a commitment to contribute to technological advancements, I am ready to make a significant impact in the field.</h4>
+<h4 align="center">With a BS in Computer Science from FAST NUCES, my approach to software engineering is rooted in strong architectural principles and systems thinking. I am passionate about how the 'whole machine' operates at scale, from backend infrastructure to the end-user experience. Driven by a commitment to engineering excellence, I leverage this holistic view to build innovative, high-performance solutions that solve complex technical challenges.</h4>
 <br>
 
 ## 🔥 Streak Stats
